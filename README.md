@@ -1,5 +1,5 @@
 ## Totp API
-# Time-Based One time Password endpoint (rfc6238)
+## Time-Based One time Password endpoint (rfc6238)
 
 ## How to use
 Step 1 - Clone the repository <br>
